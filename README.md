@@ -1,7 +1,7 @@
 # mycode (Course)
 
 This project contains basic python scripts that may or may not be collaborative work. Purpose is to learn Python and be able to build complex scripts as I build further  undertanding.
-
+Trying to learn how to version control projects with git
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine
 for development and testing purposes. See deployment for notes on how to deploy the project
