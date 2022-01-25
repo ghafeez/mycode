@@ -15,7 +15,9 @@ def main():
 
     # copy the entire directoryA to directoryB
     # The following line will create the directory if it does not exist already
+    os.system("rm -rf /home/student/mycode/5g_research_backup/")
     shutil.copytree("5g_research/", "5g_research_backup/")
+    
 
-
+if __name__ == "__main__":
     main()
