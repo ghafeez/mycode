@@ -13,8 +13,7 @@ print(munsters['names'])
 print(munsters['endDate'])
 print(munsters['startDate'])
 munsters["episodes"] = "70"
-print(munsters.keys())
-print(munsters.values())
+print(munsters)
 
 
 
